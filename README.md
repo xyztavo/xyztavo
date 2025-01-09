@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a based Brazilian Go and JS dev , writing clean code, breaking stuff (sometimes on purpose), and chasing the perfect coffee-to-code ratio. Let's make some magic happen! 🚀✨</p>
+<p align="left">based brazilian GO and JS dev , writing shitty code, breaking stuff (sometimes on purpose), and creating the worst apps on existance🚀✨</p>
 
 ###
 
