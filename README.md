@@ -1,8 +1,6 @@
 hi, my name is gustavo and i like to do hack around
 
-working at Central dos Mecanicos -https://centraldosmecanicos.com.br
-
-side project Lunai - https://lunai.monster
+side project Lunai - https://www.lunai.monster
 
 todo: 
 * make most of lunai projects free and open source (right now i just need to clean the code and use free AI models on the physique).
