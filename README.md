@@ -1,4 +1,4 @@
-hi, my name is gustavo and i like to do hack around
+hello, welcome to where i like store some of my hackings
 
 side project Lunai - https://www.lunai.monster
 
